@@ -43,13 +43,16 @@ Project_Folder/
    
 ### Section 4: References
 [1]Yelp, “Yelp - Company - Fast Facts,” www.yelp-press.com. https://www.yelp-press.com/company/fast-facts/default.aspx
+
 [2]H. Dhaduk, “Performing Sentiment Analysis With Naive Bayes Classifier!,” Analytics
 Vidhya, Jul. 13, 2021.
 https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-with-naive-bayes
 -classifier/
+
 [3]]A. A. Awan and A. Navlani, “Naive Bayes classifier tutorial: With Python Scikit-Learn,”
 DataCamp, https://www.datacamp.com/tutorial/naive-bayes-scikit-learn (accessed Sep. 16,
 2024)
+
 [4]] H. Dhaduk, “Performing Sentiment Analysis With Naive Bayes Classifier!,” Analytics
 Vidhya, Jul. 13, 2021.
 https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-with-naive-bayes

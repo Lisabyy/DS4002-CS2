@@ -13,8 +13,10 @@ The rubric [CS3Rubric_SentimentAnalysis.pdf](/CS3Rubric_SentimentAnalysis.pdf) o
 Project_Folder/
 │
 ├── Materials/
-│   └── Cleaned Dataset for Reference.csv           # Dataset of Yelp reviews for LA restaurants (cleaned; used a reference/guide)
-│   └── CS2_SentimentAnalysis_GuidingCode.ipynb          # Juypter Notebook containing reference code for EDA, sentiment analysis and NB model
+│   └── CS2_SentimentAnalysis_GuidingCode.ipynb                            # Juypter Notebook containing reference code for EDA, sentiment analysis and NB model
+|   └── Cleaned Dataset for Reference.csv                                  # Dataset of Yelp reviews for LA restaurants (cleaned; used a reference/guide)
+|   └── Naive Bayes classifier tutorial: With Python Scikit-Learn          # Website to assist with Predictive Model
+|   └── Performing Sentiment Analysis With Naive Bayes Classifier          # Website to assist with Performing Sentiment Analysis
 |
 │CS3Hook_SentimentAnalysis.pdf             # PDF giving you a bried overview of the instructions and premise for the case study
 │
@@ -40,3 +42,15 @@ Project_Folder/
    - Run all cells to preprocess the data, compute VADER sentiment scores, and build the Naive Bayes model.
    
 ### Section 4: References
+[1]Yelp, “Yelp - Company - Fast Facts,” www.yelp-press.com. https://www.yelp-press.com/company/fast-facts/default.aspx
+[2]H. Dhaduk, “Performing Sentiment Analysis With Naive Bayes Classifier!,” Analytics
+Vidhya, Jul. 13, 2021.
+https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-with-naive-bayes
+-classifier/
+[3]]A. A. Awan and A. Navlani, “Naive Bayes classifier tutorial: With Python Scikit-Learn,”
+DataCamp, https://www.datacamp.com/tutorial/naive-bayes-scikit-learn (accessed Sep. 16,
+2024)
+[4]] H. Dhaduk, “Performing Sentiment Analysis With Naive Bayes Classifier!,” Analytics
+Vidhya, Jul. 13, 2021.
+https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-with-naive-bayes
+-classifier/

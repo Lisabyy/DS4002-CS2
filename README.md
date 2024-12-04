@@ -15,11 +15,11 @@ Project_Folder/
 ├── Materials/
 │   └── Cleaned Dataset for Reference.csv           # Dataset of Yelp reviews for LA restaurants (cleaned; used a reference/guide)
 │   └── Guiding Code for Case Study.ipynb          # Juypter Notebook containing reference code for EDA, sentiment analysis and NB model
-├── Hook/
-│   └──  CS3Hook_SentimentAnalysis.pdf             # PDF giving you a bried overview of the instructions and premise for the case study
+|
+│CS3Hook_SentimentAnalysis.pdf             # PDF giving you a bried overview of the instructions and premise for the case study
 │
-├── Rubric/
-│   └──  CS3Rubric_SentimentAnalysis.pdf           # PDF rubric that gives detailed information about required content and formatting
+
+│CS3Rubric_SentimentAnalysis.pdf           # PDF rubric that gives detailed information about required content and formatting
 │
 └── README.md                # This file
 ```

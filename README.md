@@ -36,7 +36,7 @@ Project_Folder/
    - The dataset that you will be using for this case study can be found at the following link. The Materials folder contains references to help throughout the project process.
 
 3. **Compute EDA**:
-   - Open `sentiment_analysis.ipynb` in Google Colab or Jupyter. (for reference)
+   - Open `sentiment_analysis.ipynb` in Google Colab or Jupyter (for your own reference). 
    - Run all cells to preprocess the data, compute VADER sentiment scores, and build the Naive Bayes model.
    
 ### Section 4: References
